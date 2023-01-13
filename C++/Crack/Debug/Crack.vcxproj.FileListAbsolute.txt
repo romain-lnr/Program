@@ -1,0 +1,3 @@
+Z:\Programmation\Crack\Debug\Crack.exe
+Z:\Programmation\Crack\Debug\Crack.pdb
+C:\Users\romai\Romain\Programmation VS\Crack\Debug\Crack.exe

@@ -1,0 +1,3 @@
+Z:\Programmation\Conditions\Debug\Conditions.exe
+Z:\Programmation\Conditions\Debug\Conditions.pdb
+C:\Users\romai\Romain\Programmation VS\Conditions\Debug\Conditions.exe

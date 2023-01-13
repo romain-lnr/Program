@@ -1,0 +1,2 @@
+Z:\Programmation\Fonctions\Debug\Fonctions.exe
+Z:\Programmation\Fonctions\Debug\Fonctions.pdb

@@ -1,0 +1,4 @@
+﻿  Morpion.cpp
+Z:\Programmation\Morpion\Morpion.cpp(14,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+Z:\Programmation\Morpion\Morpion.cpp(16,7): warning C4552: '!=' : résultat de l'expression non utilisé
+  Morpion.vcxproj -> Z:\Programmation\Morpion\Debug\Morpion.exe

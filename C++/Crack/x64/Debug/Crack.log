@@ -1,0 +1,5 @@
+﻿  Crack.cpp
+\\WWW\data\Romain\Programmation\Tutorial_00\Tutorial_00\Crack\Crack.cpp(80,31): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+\\WWW\data\Romain\Programmation\Tutorial_00\Tutorial_00\Crack\Crack.cpp(84,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+\\WWW\data\Romain\Programmation\Tutorial_00\Tutorial_00\Crack\Crack.cpp(72): warning C4715: 'alphabet_password_F' : les chemins de contrôle ne retournent pas tous une valeur
+  Crack.vcxproj -> \\WWW\data\Romain\Programmation\Tutorial_00\Tutorial_00\x64\Debug\Crack.exe

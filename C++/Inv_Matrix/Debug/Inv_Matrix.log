@@ -1,0 +1,4 @@
+﻿  Inv_Matrix.cpp
+Z:\Romain\Programmation\Inv_Matrix\Inv_Matrix.cpp(132,9): warning C4101: 'j' : variable locale non référencée
+Z:\Romain\Programmation\Inv_Matrix\Inv_Matrix.cpp(132,6): warning C4101: 'i' : variable locale non référencée
+  Inv_Matrix.vcxproj -> Z:\Romain\Programmation\Inv_Matrix\Debug\Inv_Matrix.exe

@@ -1,0 +1,2 @@
+Z:\Romain\Programmation\NombresPremiers\x64\Debug\NombresPremiers.exe
+Z:\Romain\Programmation\NombresPremiers\x64\Debug\NombresPremiers.pdb

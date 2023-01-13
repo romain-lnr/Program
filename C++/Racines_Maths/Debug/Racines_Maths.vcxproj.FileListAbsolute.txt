@@ -1,0 +1,2 @@
+Z:\Programmation\Racines_Maths\Debug\Racines_Maths.exe
+Z:\Programmation\Racines_Maths\Debug\Racines_Maths.pdb

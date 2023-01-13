@@ -1,0 +1,4 @@
+﻿  Calc_Racines.cpp
+C:\Users\romai\Romain\Programmation VS\Calc_Racines\Calc_Racines.cpp(7,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\romai\Romain\Programmation VS\Calc_Racines\Calc_Racines.cpp(24,21): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  Calc_Racines.vcxproj -> C:\Users\romai\Romain\Programmation VS\Calc_Racines\Debug\Calc_Racines.exe

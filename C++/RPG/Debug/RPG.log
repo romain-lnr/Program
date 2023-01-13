@@ -1,0 +1,42 @@
+﻿  RPG.cpp
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(170,10): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(173,10): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(371,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(453,19): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(454,20): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(491,35): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(493,35): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(495,35): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(497,35): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(499,35): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(501,31): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(504,31): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(507,31): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(510,31): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(513,31): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(531,33): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(533,33): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(535,33): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(537,33): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(539,33): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(541,31): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(543,31): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(545,31): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(547,31): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(549,31): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(866,10): warning C4244: 'argument' : conversion de 'double' en 'unsigned int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(902,82): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(910,65): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(1155,82): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(1163,65): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(1466,82): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(1474,65): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(1775,82): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(1783,65): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(2028,82): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(2036,65): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(2266,12): warning C4244: 'argument' : conversion de 'double' en 'unsigned int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(2269,12): warning C4244: 'argument' : conversion de 'double' en 'unsigned int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(2273,38): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation\RPG\RPG.cpp(2543,9): warning C4244: 'argument' : conversion de 'double' en 'unsigned int', perte possible de données
+  RPG.vcxproj -> C:\Users\romai\Romain\Programmation\RPG\Debug\RPG.exe

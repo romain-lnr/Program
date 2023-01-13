@@ -1,0 +1,3 @@
+Z:\Programmation\Calcul_littéraire\Debug\Calcul_littéraire.exe
+Z:\Programmation\Calcul_littéraire\Debug\Calcul_littéraire.pdb
+C:\Users\romai\Romain\Programmation VS\Calcul_littéraire\Debug\Calcul_littéraire.exe

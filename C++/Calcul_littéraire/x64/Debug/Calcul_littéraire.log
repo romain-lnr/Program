@@ -1,0 +1,3 @@
+﻿  Calcul_littéraire.cpp
+\\WWW\data\Romain\Programmation\Tutorial_00\Tutorial_00\Calcul_littéraire\Calcul_littéraire.cpp(18): warning C4715: 'string_to_num' : les chemins de contrôle ne retournent pas tous une valeur
+  Calcul_littéraire.vcxproj -> \\WWW\data\Romain\Programmation\Tutorial_00\Tutorial_00\x64\Debug\Calcul_littéraire.exe

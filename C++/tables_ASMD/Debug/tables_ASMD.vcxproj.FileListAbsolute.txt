@@ -1,0 +1,2 @@
+Z:\Programmation\tables_ASMD\Debug\tables_ASMD.exe
+Z:\Programmation\tables_ASMD\Debug\tables_ASMD.pdb

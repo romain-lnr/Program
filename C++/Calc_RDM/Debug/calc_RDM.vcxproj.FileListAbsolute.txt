@@ -1,0 +1,5 @@
+Z:\Programmation\calc_RDM\Debug\calc_RDM.exe
+Z:\Programmation\calc_RDM\Debug\calc_RDM.pdb
+\\www\data\Romain\Programmation\calc_RDM\Debug\calc_RDM.exe
+\\www\data\Romain\Programmation\calc_RDM\Debug\calc_RDM.pdb
+C:\Users\romai\Romain\Programmation VS\Calc_RDM\Debug\calc_RDM.exe

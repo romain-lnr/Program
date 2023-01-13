@@ -1,0 +1,3 @@
+Z:\Programmation\Calcul_de_pi\Debug\Calcul_de_pi.exe
+Z:\Programmation\Calcul_de_pi\Debug\Calcul_de_pi.pdb
+C:\Users\romai\Romain\Programmation VS\Calcul_de_pi\Debug\Calcul_de_pi.exe

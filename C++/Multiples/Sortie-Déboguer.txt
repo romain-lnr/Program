@@ -1,0 +1,13 @@
+﻿'Multiples.exe' (Win32) : Chargé '\\WWW\data\Romain\Programmation\Multiples\Debug\Multiples.exe'. Les symboles ont été chargés.
+'Multiples.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Multiples.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Multiples.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Multiples.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\apphelp.dll'. 
+'Multiples.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Multiples.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Multiples.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+Le thread 0x1078 s'est arrêté avec le code 0 (0x0).
+Le thread 0x600 s'est arrêté avec le code -1073741510 (0xc000013a).
+Le thread 0x3d90 s'est arrêté avec le code -1073741510 (0xc000013a).
+Le thread 0x37b8 s'est arrêté avec le code -1073741510 (0xc000013a).
+Le programme '[15944] Multiples.exe' s'est arrêté avec le code -1073741510 (0xc000013a).

@@ -1,0 +1,10 @@
+﻿  PC.cpp
+C:\Users\romai\Romain\Programmation VS\PC\PC\PC.cpp(106,10): warning C4215: extension non standard utilisée : long float
+C:\Users\romai\Romain\Programmation VS\PC\PC\PC.cpp(107,10): warning C4215: extension non standard utilisée : long float
+C:\Users\romai\Romain\Programmation VS\PC\PC\PC.cpp(108,10): warning C4215: extension non standard utilisée : long float
+C:\Users\romai\Romain\Programmation VS\PC\PC\PC.cpp(133,18): warning C4244: '+=' : conversion de '__int64' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation VS\PC\PC\PC.cpp(212,30): warning C4244: '+=' : conversion de '__int64' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation VS\PC\PC\PC.cpp(216,67): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\romai\Romain\Programmation VS\PC\PC\PC.cpp(246,34): warning C4244: '+=' : conversion de '__int64' en 'int', perte possible de données
+C:\Users\romai\Romain\Programmation VS\PC\PC\PC.cpp(250,69): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  PC.vcxproj -> C:\Users\romai\Romain\Programmation VS\PC\x64\Debug\PC.exe

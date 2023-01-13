@@ -1,0 +1,3 @@
+Z:\Programmation\Calc_Réflechi\Debug\Calc_Réflechi.exe
+Z:\Programmation\Calc_Réflechi\Debug\Calc_Réflechi.pdb
+C:\Users\romai\Romain\Programmation VS\Calc_Réflechi\Debug\Calc_Réflechi.exe

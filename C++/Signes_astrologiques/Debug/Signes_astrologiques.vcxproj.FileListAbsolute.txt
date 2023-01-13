@@ -1,0 +1,2 @@
+Z:\Programmation\Signes_astrologiques\Debug\Signes_astrologiques.exe
+Z:\Programmation\Signes_astrologiques\Debug\Signes_astrologiques.pdb

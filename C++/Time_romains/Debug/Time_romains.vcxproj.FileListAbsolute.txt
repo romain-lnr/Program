@@ -1,0 +1,2 @@
+Z:\Programmation\Time_romains\Debug\Time_romains.exe
+Z:\Programmation\Time_romains\Debug\Time_romains.pdb

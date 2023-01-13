@@ -1,0 +1,2 @@
+/Volumes/data/Romain/Programmation/runner/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Volumes/data/Romain/Programmation/runner/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache

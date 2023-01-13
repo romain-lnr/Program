@@ -1,0 +1,2 @@
+Z:\Programmation\Nombres_Relatifs\Debug\Nombres_Relatifs.exe
+Z:\Programmation\Nombres_Relatifs\Debug\Nombres_Relatifs.pdb

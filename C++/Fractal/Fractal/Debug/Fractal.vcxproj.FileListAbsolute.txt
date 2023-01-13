@@ -1,0 +1,4 @@
+\\WWW\data\Romain\Programmation\Fractal\Fractal\Debug\Fractal.exe
+\\WWW\data\Romain\Programmation\Fractal\Fractal\Debug\Fractal.pdb
+C:\Users\Lenoir\Romain\Programmation VS\Fractal\Fractal\Debug\Fractal.exe
+Z:\Programmation VS\Fractal\Fractal\Debug\Fractal.exe

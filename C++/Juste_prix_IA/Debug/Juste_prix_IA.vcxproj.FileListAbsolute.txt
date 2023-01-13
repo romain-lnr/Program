@@ -1,0 +1,4 @@
+Z:\Programmation\Juste_prix_IA\Debug\Juste_prix_IA.exe
+Z:\Programmation\Juste_prix_IA\Debug\Juste_prix_IA.pdb
+Z:\Romain\Programmation\Juste_prix_IA\Debug\Juste_prix_IA.exe
+Z:\Romain\Programmation\Juste_prix_IA\Debug\Juste_prix_IA.pdb

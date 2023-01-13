@@ -1,0 +1,2 @@
+Z:\Programmation\Soldes\Debug\Soldes.exe
+Z:\Programmation\Soldes\Debug\Soldes.pdb

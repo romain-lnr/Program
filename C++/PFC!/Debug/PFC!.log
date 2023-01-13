@@ -1,0 +1,4 @@
+﻿  PFC!.cpp
+Z:\Programmation\PFC!\PFC!.cpp(8,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+Z:\Programmation\PFC!\PFC!.cpp(19,6): warning C4101: 'accuracy' : variable locale non référencée
+  PFC!.vcxproj -> Z:\Programmation\PFC!\Debug\PFC!.exe

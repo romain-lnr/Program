@@ -1,0 +1,12 @@
+﻿'RPG.exe' (Win32) : Chargé 'C:\Users\romai\Romain\Programmation\RPG\Debug\RPG.exe'. Les symboles ont été chargés.
+'RPG.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ntdll.dll'. 
+'RPG.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\kernel32.dll'. 
+'RPG.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'RPG.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'RPG.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'RPG.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+Le thread 0x54f8 s'est arrêté avec le code 0 (0x0).
+Le thread 0x19bc s'est arrêté avec le code -1073741510 (0xc000013a).
+Le thread 0x5674 s'est arrêté avec le code -1073741510 (0xc000013a).
+Le thread 0x2648 s'est arrêté avec le code -1073741510 (0xc000013a).
+Le programme '[13272] RPG.exe' s'est arrêté avec le code -1073741510 (0xc000013a).

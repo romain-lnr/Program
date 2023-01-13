@@ -1,0 +1,2 @@
+Z:\Programmation\COVID-19\Debug\COVID-19.exe
+Z:\Programmation\COVID-19\Debug\COVID-19.pdb

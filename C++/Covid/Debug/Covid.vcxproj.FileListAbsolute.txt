@@ -1,0 +1,2 @@
+C:\Users\romai\source\repos\Covid\Debug\Covid.exe
+C:\Users\romai\source\repos\Covid\Debug\Covid.pdb

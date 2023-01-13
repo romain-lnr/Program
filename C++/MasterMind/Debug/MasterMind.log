@@ -1,0 +1,4 @@
+﻿  MasterMind.cpp
+Z:\Programmation\MasterMind\MasterMind.cpp(43,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+Z:\Programmation\MasterMind\MasterMind.cpp(67,31): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  MasterMind.vcxproj -> Z:\Programmation\MasterMind\Debug\MasterMind.exe

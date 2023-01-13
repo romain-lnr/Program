@@ -1,0 +1,13 @@
+﻿'COVID-19.exe' (Win32) : Chargé '\\WWW\data\Romain\Programmation\COVID-19\Debug\COVID-19.exe'. Les symboles ont été chargés.
+'COVID-19.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ntdll.dll'. 
+'COVID-19.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\kernel32.dll'. 
+'COVID-19.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'COVID-19.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\apphelp.dll'. 
+'COVID-19.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'COVID-19.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'COVID-19.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+Le thread 0xa0 s'est arrêté avec le code 0 (0x0).
+Le thread 0x2170 s'est arrêté avec le code -1073741510 (0xc000013a).
+Le thread 0x25e0 s'est arrêté avec le code -1073741510 (0xc000013a).
+Le thread 0x3970 s'est arrêté avec le code -1073741510 (0xc000013a).
+Le programme '[2332] COVID-19.exe' s'est arrêté avec le code -1073741510 (0xc000013a).

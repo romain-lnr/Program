@@ -1,0 +1,9 @@
+﻿  TimeGreg.cpp
+Z:\Programmation\TimeGreg\TimeGreg.cpp(44,26): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+Z:\Programmation\TimeGreg\TimeGreg.cpp(45,26): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+Z:\Programmation\TimeGreg\TimeGreg.cpp(46,20): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+Z:\Programmation\TimeGreg\TimeGreg.cpp(47,20): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+Z:\Programmation\TimeGreg\TimeGreg.cpp(48,19): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+Z:\Programmation\TimeGreg\TimeGreg.cpp(49,19): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+Z:\Programmation\TimeGreg\TimeGreg.cpp(25,19): warning C4101: 't' : variable locale non référencée
+  TimeGreg.vcxproj -> Z:\Programmation\TimeGreg\Debug\TimeGreg.exe

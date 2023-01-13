@@ -1,0 +1,3 @@
+Z:\Programmation\Calc_Racines\Debug\Calc_Racines.exe
+Z:\Programmation\Calc_Racines\Debug\Calc_Racines.pdb
+C:\Users\romai\Romain\Programmation VS\Calc_Racines\Debug\Calc_Racines.exe

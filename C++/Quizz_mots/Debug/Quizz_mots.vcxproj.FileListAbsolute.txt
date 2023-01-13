@@ -1,0 +1,2 @@
+Z:\Programmation\Quizz_mots\Debug\Quizz_mots.exe
+Z:\Programmation\Quizz_mots\Debug\Quizz_mots.pdb

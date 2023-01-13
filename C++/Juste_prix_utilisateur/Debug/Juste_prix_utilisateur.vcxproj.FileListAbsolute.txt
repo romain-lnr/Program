@@ -1,0 +1,2 @@
+Z:\Programmation\Juste_prix_utilisateur\Debug\Juste_prix_utilisateur.exe
+Z:\Programmation\Juste_prix_utilisateur\Debug\Juste_prix_utilisateur.pdb

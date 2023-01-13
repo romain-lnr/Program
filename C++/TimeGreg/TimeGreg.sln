@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TimeGreg", "TimeGreg.vcxproj", "{C0BD73A3-953D-4ED5-B017-4B28611EEBB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0BD73A3-953D-4ED5-B017-4B28611EEBB5}.Debug|x64.ActiveCfg = Debug|x64
+		{C0BD73A3-953D-4ED5-B017-4B28611EEBB5}.Debug|x64.Build.0 = Debug|x64
+		{C0BD73A3-953D-4ED5-B017-4B28611EEBB5}.Debug|x86.ActiveCfg = Debug|Win32
+		{C0BD73A3-953D-4ED5-B017-4B28611EEBB5}.Debug|x86.Build.0 = Debug|Win32
+		{C0BD73A3-953D-4ED5-B017-4B28611EEBB5}.Release|x64.ActiveCfg = Release|x64
+		{C0BD73A3-953D-4ED5-B017-4B28611EEBB5}.Release|x64.Build.0 = Release|x64
+		{C0BD73A3-953D-4ED5-B017-4B28611EEBB5}.Release|x86.ActiveCfg = Release|Win32
+		{C0BD73A3-953D-4ED5-B017-4B28611EEBB5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1874A696-165A-4252-BBB7-7D55FCCAB797}
+	EndGlobalSection
+EndGlobal

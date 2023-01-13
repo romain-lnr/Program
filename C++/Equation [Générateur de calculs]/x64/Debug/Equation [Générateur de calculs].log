@@ -1,0 +1,7 @@
+﻿  Equation [Générateur de calculs].cpp
+Z:\Romain\Programmation\Equation [Générateur de calculs]\Equation [Générateur de calculs].cpp(9,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+Z:\Romain\Programmation\Equation [Générateur de calculs]\Equation [Générateur de calculs].cpp(44,23): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+Z:\Romain\Programmation\Equation [Générateur de calculs]\Equation [Générateur de calculs].cpp(45,23): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+Z:\Romain\Programmation\Equation [Générateur de calculs]\Equation [Générateur de calculs].cpp(26,6): warning C4101: 'result_true' : variable locale non référencée
+Z:\Romain\Programmation\Equation [Générateur de calculs]\Equation [Générateur de calculs].cpp(17,6): warning C4101: 'x_a_number' : variable locale non référencée
+  Equation [Générateur de calculs].vcxproj -> Z:\Romain\Programmation\Equation [Générateur de calculs]\x64\Debug\Equation [Générateur de calculs].exe

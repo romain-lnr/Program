@@ -1,0 +1,2 @@
+Z:\Programmation\Puissances\Debug\Puissances.exe
+Z:\Programmation\Puissances\Debug\Puissances.pdb

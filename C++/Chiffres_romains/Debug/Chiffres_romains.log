@@ -1,0 +1,3 @@
+﻿  Chiffres_romains.cpp
+C:\Users\romai\Romain\Programmation VS\Chiffres_romains\Chiffres_romains.cpp(193,6): warning C4101: 'i' : variable locale non référencée
+  Chiffres_romains.vcxproj -> C:\Users\romai\Romain\Programmation VS\Chiffres_romains\Debug\Chiffres_romains.exe
