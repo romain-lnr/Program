@@ -2,19 +2,21 @@
 using System;
 
 namespace name {
-    class Program {
-    static void Main(string[] args) {
-        int a;
-        int b;
-        int result;
-        Addition_méthode(out a, out b, out result);
-        Console.WriteLine(a + " + " + b + " = " + result);
-    }
-    static void Addition_méthode(out int x, out int y, out int result) {
-        x = Convert.ToInt32(Console.ReadLine());
-        y = Convert.ToInt32(Console.ReadLine());
-        result = x + y;
-    }
+    struct Ecole {
+        public string nom = default;
+        public int nbEleve = default;
 
+        public Ecole(string nomEcole, int nombre) { 
+            nom = nomEcole;
+            nbEleve = nombre;
+        }
+    }
+    class Program {
+        static void Main(string[] args) {
+            Ecole ecole1 = new Ecole("EPFL", 1300);
+            Ecole ecole2 = new Ecole("CPNV", 900);
+            Console.WriteLine(ecole1.nom + " " + ecole1.nbEleve);
+            Console.WriteLine(ecole2.nom + " " + ecole2.nbEleve);
+        }
     }
 }
